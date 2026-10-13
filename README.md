@@ -7,7 +7,7 @@ C. K. Pithawala College of Engineering and Technology, Surat
 A menu-driven Python program to manage student records, extended with a **beyond-syllabus** feature:
 every student gets a **QR code ID card**, and any card can be **verified by scanning its QR code**.
 
-![Sample ID card](id_cards/CE101.png)
+| CE101.pngtoCE105.png | Sample generated ID cards |
 
 ## Features
 
